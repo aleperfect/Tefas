@@ -1,4 +1,4 @@
-// Readz Aleizn@BrunoSobrino - _antilink.js
+// 𝐓𝐞𝐟𝐚 𝐁𝐨𝐭@BrunoSobrino - _antilink.js
 
   
 const linkRegex = /chat.whatsapp.com\/([0-9A-Za-z]{20,24})/i;
